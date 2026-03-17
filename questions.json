@@ -1,0 +1,18 @@
+{
+  "heading": "G10M2Eng_assessment_writing",
+  "topics": [
+    {
+      "heading": "How To Write A News Article(Writing)",
+      "questions": [
+       
+        {
+          "questionNo": 1,
+          "type":"long",
+          "question": "Write a 4-paragraph news article about a new school policy prohibiting the use of smartphones in all classes, effective from next term. Under the new policy, students must store their phones in their lockers from the start of the school day until dismissal. Your article must have:<ul><li>A compelling headline capturing the key highlight</li><li>A byline with your name</li><li>Exactly 4 paragraphs:</li><ul><li>Introduction: 50–60 words</li><li>Body Paragraph 1: 80–100 words</li><li>Body Paragraph 2: 80–100 words</li><li>Conclusion: 50–60 words</li></ul></ul>Total: 260–320 words",
+          "text_area": "",
+          "answer": [""]
+        }
+      ]
+    }
+  ]
+}
